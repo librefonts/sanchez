@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="Sanchez-Italic.otf.GlyphOrder.ttx"/>
+  <head src="Sanchez-Italic.otf._h_e_a_d.ttx"/>
+  <hhea src="Sanchez-Italic.otf._h_h_e_a.ttx"/>
+  <maxp src="Sanchez-Italic.otf._m_a_x_p.ttx"/>
+  <OS_2 src="Sanchez-Italic.otf.O_S_2f_2.ttx"/>
+  <name src="Sanchez-Italic.otf._n_a_m_e.ttx"/>
+  <cmap src="Sanchez-Italic.otf._c_m_a_p.ttx"/>
+  <post src="Sanchez-Italic.otf._p_o_s_t.ttx"/>
+  <CFF src="Sanchez-Italic.otf.C_F_F_.ttx"/>
+  <GPOS src="Sanchez-Italic.otf.G_P_O_S_.ttx"/>
+  <GSUB src="Sanchez-Italic.otf.G_S_U_B_.ttx"/>
+  <hmtx src="Sanchez-Italic.otf._h_m_t_x.ttx"/>
+  <kern src="Sanchez-Italic.otf._k_e_r_n.ttx"/>
+</ttFont>
