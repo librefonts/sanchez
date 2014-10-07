@@ -1,0 +1,51 @@
+{
+  "name": "Sanchez",
+  "designer": "Daniel Hernandez",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Serif",
+  "size": 26775,
+  "fonts": [
+    {
+      "name": "Sanchez",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Sanchez-Italic-TTF.ttf",
+      "postScriptName": "Sanchez-Italic",
+      "fullName": "Sanchez Italic",
+      "copyright": "Copyright (c) 2012, LatinoType (www.latinotype.com), with Reserved Font Name 'Sanchez'"
+    },
+    {
+      "name": "Sanchez",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Sanchez-Regular-TTF.ttf",
+      "postScriptName": "Sanchez-Regular",
+      "fullName": "Sanchez",
+      "copyright": "Copyright (c) 2012, LatinoType (www.latinotype.com), with Reserved Font Name 'Sanchez'"
+    },
+    {
+      "name": "Sanchez",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Sanchez-Italic.ttf",
+      "postScriptName": "Sanchez-Italic",
+      "fullName": "Sanchez Italic",
+      "copyright": "Copyright (c) 2012, LatinoType (www.latinotype.com), with Reserved Font Name 'Sanchez'"
+    },
+    {
+      "name": "Sanchez",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Sanchez-Regular.ttf",
+      "postScriptName": "Sanchez-Regular",
+      "fullName": "Sanchez",
+      "copyright": "Copyright (c) 2012, LatinoType (www.latinotype.com), with Reserved Font Name 'Sanchez'"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-10-31"
+}
